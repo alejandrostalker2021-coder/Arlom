@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard",
+  "description": "RPG pixel art medieval fantástico de mundo abierto con razas, clases, misiones, equipo de sets y cooperativo local por Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
